@@ -11,8 +11,8 @@
       "browser"
     ]
   },
-  "repository": "github:apache/cordova-plugin-splashscreen",
-  "bugs": "https://github.com/apache/cordova-plugin-splashscreen/issues",
+  "repository": "github:ziyingjing/cordova-plugin-splashscreen",
+  "bugs": "https://github.com/ziyingjing/cordova-plugin-splashscreen/issues",
   "keywords": [
     "cordova",
     "splashscreen",
